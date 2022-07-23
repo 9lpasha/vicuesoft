@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vicuesoft/static/css/main.3385327c.css",
+    "main.js": "/vicuesoft/static/js/main.fd7de827.js",
+    "index.html": "/vicuesoft/index.html",
+    "main.3385327c.css.map": "/vicuesoft/static/css/main.3385327c.css.map",
+    "main.fd7de827.js.map": "/vicuesoft/static/js/main.fd7de827.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3385327c.css",
+    "static/js/main.fd7de827.js"
+  ]
+}
