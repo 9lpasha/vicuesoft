@@ -1,0 +1,65 @@
+.BeerPage{
+    width: calc(100vw - 200px);
+    height: calc(100vh - 200px);
+    padding: 100px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.BeerPage img{
+    width: 70%;
+}
+
+.beerNameImg{
+    height: calc(60%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 20%;
+}
+
+.beerName{
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.beerTagline{
+    margin-bottom: 50px;
+}
+
+.beerNameTagline{
+    margin-left: 20%;
+}
+
+.beerDescCont{
+    margin-left: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    line-height: 1.5;
+}
+
+.beerDescription{
+    text-align: start;
+    margin-bottom: 15px;
+}
+
+.beerAbv{
+
+}
+
+.beerFoodPairing{
+
+}
+
+.goBack{
+    position: absolute;
+    top: 20px;
+    left: 100px;
+}
+
+.goBack:hover{
+    cursor: pointer;
+}
